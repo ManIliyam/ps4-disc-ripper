@@ -1,0 +1,25 @@
+{
+  "version": "1.15",
+  "author": "iTZiLiYA",
+  "sdk": "Installed OpenOrbis toolchain; see docs/BUILD.md for archive SHA-256",
+  "files": {
+    "FontBlend.h": "36266f4ab2fdddcecc0a7f054f4ff5977947b60206c14906f808b05860eb1eb8",
+    "FtpInspect.h": "45dbacb8f86c51a722501f6be9d07f3dd0467fe7aeba20303caca4eb1722f037",
+    "FtpProbe.h": "6e466649dd6204d84d38ffb33fa45ae6c4b61d490c511e0788112a11d7597343",
+    "Gui.h": "767e1432725639e1e2a6c90088220f3c5d2c3b7a50a387967ae7249b2f4ea30a",
+    "GuiCopy.h": "a5fc8cfaebb4f937b296ca1d586bf7c04a1e9395a8349c4323ee134250c88139",
+    "GuiModel.h": "a7897457b2f7565e5a1ba6daca5ec62f52de9e592e6d2e993a5b470d89f8d838",
+    "GuiRender.h": "29240236d0c5c96eb79a87c5925bd91cd36f5a46ea04be2ab61625c10e1f3c97",
+    "StorageSpace.h": "8a0102948dd8e8f178d24d31f12ba1cae8a0e7a43fac95503e62bcbe20910e04",
+    "StreamCopy.h": "c4af9d59c1adf7a690f5bab9ce2465d1e438a471c6a5150d1c8b2d0841d39c4d",
+    "TestArchive.h": "ef14740efeabf8ea60298da6babba6fb396baa8f08507e3b64aa10961462d463",
+    "build.bat": "303b0dfc7cbef45a3754e72b55b6e51870fbca18ad18b66889f2af0122735b8d",
+    "graphics.cpp": "4a7baa14c2da917ea7e0bc3a94cf94d08cbd718936074487a82d2b38eda17ba4",
+    "graphics.h": "3b0103b088f414e52a1aebe79552883d381c6d8f4481c91fbd6aa73fe1679b71",
+    "hello_world.vcxproj": "86466463be6fc730f64d8bf88ae6fb21830b3af8c8e3f5ad7cfb53dcba74c748",
+    "hello_world.vcxproj.filters": "9545afcbc056ff0152138cba7e555e33025e940e11c1f1a2cbbe3ad0b1f7a32b",
+    "log.h": "a6ebb2470fc561adcad41001fb09f7f09ffbf0b9636c837b18c867bc607bc257",
+    "main.cpp": "b4967688359783f5e49bcd03ddb8184e17231bbba8373bd9fadddc139347252a",
+    "picosha2.h": "ae5613548dbd3ff1028b136af97d8bb409036566febc5c0fd9b48099f9c55b8d"
+  }
+}
