@@ -27,7 +27,7 @@ You'll need a jailbroken PS4, a readable disc and GoldHEN FTP enabled on port
 2121. Leave FTP enabled even when copying to the PS4 HDD. The app uses that
 service to read the disc.
 
-Install `PS4-Disc-Ripper-1.15.pkg` through GoldHEN Package Installer.
+Install `PS4-Disc-Ripper-1.20.pkg` through GoldHEN Package Installer.
 
 The title ID is `BREW04117`. Installing this version replaces this project's
 earlier diagnostics with the same ID. Check that an unrelated app isn't already
@@ -88,7 +88,7 @@ for details.
 - [Build instructions](docs/BUILD.md)
 - [Compatibility and test results](docs/COMPATIBILITY.md)
 - [Copy engine and troubleshooting](docs/VIDEO-COPY.md)
-- [Release notes](docs/RELEASE-v1.15.md)
+- [Release notes](docs/RELEASE-v1.20.md)
 - [Roadmap](docs/ROADMAP.md)
 
 For a bug report, include the app version, firmware, GoldHEN version, console
