@@ -1,6 +1,6 @@
 # PS4 Disc Ripper
 
-Created by iTZiLiYA. Version 1.15 is an experimental release.
+Created by iTZiLiYA. Version 1.20 is an experimental release.
 
 ![PS4 Disc Ripper icon](assets/gui/icon0.png)
 
